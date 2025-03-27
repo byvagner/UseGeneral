@@ -1,0 +1,48 @@
+Proyecto Grupo_8
+	name Proyect = Sistema Documental De Historia Clinica!
+
+	-> Para Lunes 31 / viernes 28 (resolvemos dudas)
+	 ->PUNTO 1
+	 	investigar 3 libros relacionado a su proyecto (Sistema documental de historia clinica)
+		que desde punto de vista de la aplicacion hable del tema que nos toco
+	 ->PUNTO 2
+	 	Conseguir 3 aplicacion echas en cualquier parte del mundo ( no importa lugar ) 
+		deben estar echas por empresas que desarrollan sofware
+		consegui al menos 2 programas open source
+	 ->PUNTO 3
+	 	3 posibles caso de estudio para su tema ( no importa de donde es el caso de estudio )
+
+Luego de tener Todo estos datos tenemos que documentar!
+
+Documentacion -> 
+	resumen de puntos centrales relacionados a su tema, de cada aplicacion el nombre de la empresa que lo desarrollo, funcionalidades sobresaliente del sofware
+	aspecto de la forma que se pone en marcha (lic, paga, etc)
+	capturar y documental el proceso del sofware
+	3 caso de estudio reprensentantivo del mercado ( no esta dirigidio a empresa)
+	!hacer estudio de mercado para no hacer varias versiones! (esto se refiere a que el uso del desarrollo tiene que tener un uso general) 
+
+Taller!
+	duracion 45 minutos expo desde lunes empezamos 
+	Teoria, sofware, caso de estudio
+
+Mostrar 
+	Como son ese tipo de sistema que es lo que hace!
+
+Documentacion /obligatorio!
+
+nombre de la universidad
+------------------------
+titulo
+------------------------
+tema
+------------------------
+nombre del proyecto
+------------------------
+apellido -> paterno, materno, nombre. #registro -> ordenado alfabeticamente ascendente /formato apa
+------------------------
+numero de grupo
+------------------------
+lugar fecha
+
+notas -> en el taller podemos poner diapositiva videos pero los videos tiene que ser explicados por nosotros.
+
